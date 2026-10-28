@@ -8,16 +8,16 @@ export const CONFIG = {
   STORE_KEY: 'creaweb_estado_v1',
   RESERVADOS: ['www', 'admin', 'mail', 'correo', 'ftp', 'api', 'app', 'panel', 'creaweb', 'soporte', 'ayuda', 'test'],
   TEMPLATES: [
-    { nombre: 'Plantilla 01', url: 'plantillas/glasmorphism-landing.html' },
+    { nombre: 'Plantilla 01', url: 'plantillas/glasmorphism.html' },
     { nombre: 'Plantilla 02', url: 'plantillas/neumorphism-multipage.html' },
-    { nombre: 'Plantilla 03', url: 'plantillas/minimalism-landing.html' },
+    { nombre: 'Plantilla 03', url: 'plantillas/minimalism.html' },
     { nombre: 'Plantilla 04', url: 'plantillas/brutalism-multipage.html' },
     { nombre: 'Plantilla 05', url: 'plantillas/claymorphism-multipage.html' },
     { nombre: 'Plantilla 06', url: 'plantillas/glasmorphism-multipage.html' },
-    { nombre: 'Plantilla 07', url: 'plantillas/neumorphism-landing.html' },
+    { nombre: 'Plantilla 07', url: 'plantillas/neumorphism.html' },
     { nombre: 'Plantilla 08', url: 'plantillas/minimalism-multipage.html' },
-    { nombre: 'Plantilla 09', url: 'plantillas/brutalism-landing.html' },
-    { nombre: 'Plantilla 10', url: 'plantillas/claymorphism-landing.html' },
+    { nombre: 'Plantilla 09', url: 'plantillas/brutalism.html' },
+    { nombre: 'Plantilla 10', url: 'plantillas/claymorphism.html' },
   ]
 };
 
